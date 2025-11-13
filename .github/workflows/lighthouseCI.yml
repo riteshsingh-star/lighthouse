@@ -29,6 +29,4 @@ jobs:
 
       - name: Run Lighthouse CI
         run: |
-          npx lhci autorun \
-            --config=config.cjs \
-            --chrome-flags="--disable-gpu --no-sandbox --window-size=1920,1080"
+          node run-lhci.cjs

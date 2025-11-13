@@ -1,0 +1,1 @@
+{"formFactor":"desktop","throttlingMethod":"devtools","throttling":{"rttMs":40,"throughputKbps":12000,"downloadThroughputKbps":12000,"uploadThroughputKbps":3000,"cpuSlowdownMultiplier":1},"screenEmulation":{"width":1920,"height":1080,"deviceScaleRatio":1,"mobile":false},"onlyCategories":["performance"],"chromeFlags":"--headless=false --headless=new"}

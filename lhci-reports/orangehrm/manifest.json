@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+    "isRepresentativeRun": true,
+    "htmlPath": "C:\\CodeCraft Code\\JavaScriptK6\\lighthouse\\runningMultiple\\lhci-reports\\orangehrm\\opensource_demo_orangehrmlive_com-web_index_php_auth_login-2025_11_13_10_14_12.report.html",
+    "jsonPath": "C:\\CodeCraft Code\\JavaScriptK6\\lighthouse\\runningMultiple\\lhci-reports\\orangehrm\\opensource_demo_orangehrmlive_com-web_index_php_auth_login-2025_11_13_10_14_12.report.json",
+    "summary": {
+      "performance": 0.59
+    }
+  }
+]
